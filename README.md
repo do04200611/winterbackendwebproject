@@ -15,8 +15,7 @@ OUT SOURCING TECHNOLOGY를 토대로 한 회사 사이트를 업로드한 레파
   | プロジェクト名          | 説明                 |
   |------------------------|--------------------|
   |[프로젝트 발표 자료 입니다.](https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit) |발표자료 툴 ![canva](https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva) 사용 |
-  | [결과물로 만든 웹 페이지입니다.](https://do04200611.github.io/CORODOVA/week3/report/index.html)|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 자기소개글  |
-  |[연습 문제 결과를 확인하는 웹 페이지](https://mobileweek3question.netlify.app/)|3주차|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 만든 연습 문제|
+  | [결과물로 만든 웹 페이지입니다.]([https://do04200611.github.io/CORODOVA/week3/report/index.html](https://idyllic-blancmange-f40675.netlify.app/))|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)와 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)를 이용해서 만든 결과물|
 # Contact 
 
 <p align="center">
